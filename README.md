@@ -1,4 +1,23 @@
+💫 Hi 👋, I'm Hebatallah Al Jabri
 
+Computer Engineering ||AI & Data Science Enthusiast || Machine Learning Developer || Full Stack Developer
+
+Email Me 👉 ✉️ hibatullah.saleh2000@gmail.com
+ For Collaboration/Projects or Anything Else 😊
+
+🔭 I’m currently working on:Codeline
+
+🌱 I’m currently learning: Advanced Machine Learning & Model Optimization & full stack
+
+👯 I’m looking to collaborate on: AI, Data Science & Full Stack Projects
+
+🤔 I’m looking for help with: Improving Model Performance
+
+💬 Ask me about: Python, Machine Learning, SQL, Streamlit, C#, .NET
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I turn data into intelligent solutions 🤖✨
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hibatullah_aljabri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hebatallah-aljabri/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hibatullah saleh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hibatullah.saleh2000@gmail.com) 
 
@@ -8,6 +27,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=hibatullah24&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hibatullah24&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hibatullah24&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hibatullah24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
